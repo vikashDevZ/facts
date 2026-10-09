@@ -750,3 +750,7 @@
 **Practical takeaway:** Pick one repeated decision this week (e.g. what you do first when you wake up) and make it work for you.
 
 *Evidence: Wood, Quinn & Kashy (2002), JPSP.*
+
+---
+
+*Icons: Twemoji by Twitter/X, licensed CC-BY 4.0 (https://github.com/twitter/twemoji).*
